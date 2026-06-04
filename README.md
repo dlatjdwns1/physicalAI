@@ -1,7 +1,7 @@
 # RaccoonBot OpenVLA — Assignment 1: Extending the Pipeline
 
 **학번:** 2021741025
-**과목:** Generative AI / Physical AI (Spring 2026)
+**과목:** Physical AI
 **Base repo:** https://github.com/KWU-FAIR-LAB/Raccoonbot_Openvla
 
 이 과제는 RaccoonBot + OpenVLA 파이프라인을 두 방향으로 확장했습니다.
